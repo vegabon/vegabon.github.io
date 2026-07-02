@@ -1,4 +1,4 @@
-# vegabon.github.io
+# README
 
 앱 지원 및 개인정보처리방침 페이지를 호스팅하는 GitHub Pages 사이트입니다.
 
